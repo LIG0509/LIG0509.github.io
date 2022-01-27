@@ -1846,7 +1846,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d1905b;
+  background: #ff5cff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3015,7 +3015,7 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?cs=srgb&dl=pexels-stephan-seeber-1261728.jpg&fm=jpg");
+  background: url("/images/bf.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
